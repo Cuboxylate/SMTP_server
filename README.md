@@ -1,9 +1,12 @@
 # SMTP Server
 
 An implementation of a Simple Mail Tranfer Protocol
-server for a univeristy assignment.
+(SMTP) server for a univeristy assignment, with emails
+formatted in Multipurpose Internet Mail Extensions 
+(MIME).
 
-Functionality is compliant with RFC 2821.
+SMTP functionality is compliant with RFC 2821,
+and MIME is compliant with RFC 2045.
 
 The main function in MySMTPServer.java sets up an 
 infinite loop listening for incoming connections, 

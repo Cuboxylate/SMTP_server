@@ -2,6 +2,7 @@
  * Class to deal with SMTP commands. When the user
  * wants to start an email, creates a MIMEParser 
  * object to parse the email itself.
+ * Uses Simple Mail Transfer Protocol.
  *
  * Sebastian Dunn 2013
  */

@@ -2,6 +2,7 @@
  * Main method loops infinitely listening for a 
  * socket connection. When one is detected, forks
  * a new process to deal with it.
+ * Uses Simple Mail Transfer Protocol.
  *
  * Sebastian Dunn 2013
  */

@@ -1,7 +1,8 @@
 /**
  * Interprets commands for creating an email, and
  * saves the result in the included /emails
- * folder.
+ * folder. Uses MIME - multupurpose Internet Mail
+ * Extensions.
  *
  * Sebastian Dunn 2013
  */
