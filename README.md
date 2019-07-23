@@ -1,9 +1,7 @@
 # SMTP Server
 
-An implementation of a Simple Mail Tranfer Protocol
-(SMTP) server for a univeristy assignment, with emails
-formatted in Multipurpose Internet Mail Extensions 
-(MIME).
+An implementation of an SMTP (Simple Mail Tranfer Protocol) server, with emails
+formatted in MIME (Multipurpose Internet Mail Extensions). This was originally for a networking university course, to teach us about coding to compliance specifications. 
 
 SMTP functionality is compliant with RFC 2821,
 and MIME is compliant with RFC 2045.
@@ -17,9 +15,6 @@ deals specifically with the email construction
 commands.
 
 Emails are saved locally in the emails/ folder.
-
-The assignment outline is included for a full
-description of functionality.
 
 #### To test:
 
